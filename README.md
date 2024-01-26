@@ -2,7 +2,7 @@
 Portfolio website build using HTML5, CSS3, JavaScript and Bootstrap.
 
 
-<h2><a href="https://github.com/Kabir1302/My-Portfolio" target="_blank_">Live Preview</a></h2>
+<h2><a href="https://kabir1302.github.io/Portfolio/" target="_blank_">Live Preview</a></h2>
 
 <h2>📬 Contact</h2>
 
